@@ -1,0 +1,33 @@
+.apple{
+  height:100px;
+}
+
+
+.myButton{
+  background-color:black ;
+  color: antiquewhite;
+
+}
+
+body {
+  background-image: url("/background.jpg");
+  background-attachment: fixed;
+  color: black;
+  flex:1;
+  resize:contain;
+  text-align: center;
+  align-self:stretch; 
+  text-decoration: none;
+}
+.album-container img:hover {
+  transform: translateY(10px);
+  overflow: hidden;
+  overflow-anchor: none;
+  text-decoration: none;
+}
+
+.album-container img {
+  transition: 0.1s;
+  text-decoration: none;
+}
+

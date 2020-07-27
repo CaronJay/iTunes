@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`favourite added 1`] = `<saveFavourite />`;
+
+exports[`grab query 1`] = `<albums />`;
